@@ -1,0 +1,17 @@
+# Ignore the Compiled Executables
+*.exe
+*.out
+*.app
+
+# Ignore Object files and intermediate build data
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# Ignore IDE-specific folders (Visual Studio and VS Code settings)
+.vscode/
+bin/
+obj/
+*.sln
+*.user
